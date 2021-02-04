@@ -1,2 +1,3 @@
 # friday-doc
-Document server for friday app.
+
+JavaScript documentation generator using markdown and jsdoc.
